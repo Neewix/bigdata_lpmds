@@ -36,4 +36,4 @@ WHERE Ra >300 and Ra<359.96 and Decl >-2 and Decl<2;
 SELECT objectid,sourceid 
 FROM source 
 WHERE Ra >300 and Ra<359.96 and Decl >-2 and Decl<2 
-Order By objectid;
+Order By objectid ;
