@@ -1,3 +1,0 @@
-select *
-from source
-where sourceId = "29710725217517768";
